@@ -10,7 +10,7 @@ Most "chat with your PDF" projects treat every document as equally visible. In a
 
 DocuMind ECM brings Enterprise Content Management practices (capture, classification, metadata, ACLs) into a modern LLM pipeline. Documents are ingested, automatically classified, enriched with structured metadata, and made searchable through a retrieval-augmented (RAG) assistant that **only retrieves what the asking user is allowed to read**.
 
-> The author is an ECM practitioner (OpenText xECM, Documentum, Captiva), and the design maps those concepts directly onto the LLM stack.
+
 
 ## Key features
 
